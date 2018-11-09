@@ -1,15 +1,15 @@
 ---
-pagetitle: "Resume - MyName"
-author: "My Name"
+pagetitle: "Resume - Hongjoo Lim"
+author: "Hongjoo Lim"
 date: 2018-10-31
 ---
 
-# Your Name
+# Hongjoo Lim
 
 ## Contact {.heading .hide}
 
 Seoul, Republic of Korea\
-82+ 010-3939-3686\
+82+ 010-9505-7648\
 yourname@gmail.com\
 
 ## Experience {.divider}
